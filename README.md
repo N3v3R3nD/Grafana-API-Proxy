@@ -1,8 +1,11 @@
-#Grafana Proxy
-Grafana Proxy is a Flask application that allows you to proxy requests to a Grafana instance with an access token. It also supports converting the 'from' and 'to' timestamps to a different timezone and applying a time shift.
+Grafana Proxy
+
+Grafana Proxy is a Flask application that allows you to proxy requests to a Grafana instance with an access token.
+It also supports converting the 'from' and 'to' timestamps to a different timezone and applying a time shift.
 
 Getting Started
-To use Grafana Proxy, you'll need to have Python 3.x installed on your system. You can download it from the official website: https://www.python.org/downloads/
+To use Grafana Proxy, you'll need to have Python 3.x installed on your system.
+You can download it from the official website: https://www.python.org/downloads/
 
 You'll also need to install the required packages by running the following command:
 
